@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+bs4
+nltk
+tensorflow
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
